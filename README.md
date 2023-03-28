@@ -1,5 +1,5 @@
 # File-Management-Tool-c
-This program is a basic example and does not include error handling for cases such as input validation, file or directory access permissions, or other potential issues.
+This program is a basic example of file handling and does not include error handling for cases such as input validation, file or directory access permissions, or other potential issues.
 
 <b>File Management Tool</b> is a simple project built in C programming language that allows users to create, read, update, and delete files and directories on their computer. The program presents a menu with various options for the user to choose from, making it easy to navigate and perform these operations.
 
